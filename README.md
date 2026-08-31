@@ -16,3 +16,5 @@ If the user does not provide a timeout, the loader should use the project defaul
 
 ```bash
 pytest -q
+```
+
